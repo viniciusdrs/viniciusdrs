@@ -30,7 +30,7 @@
 ## Contatos:
 <div>
 <a href="https://www.linkedin.com/in/vinicius-reis-6ab50415a" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" /></a>   
-<a href = "mailto:contato@viniciusreis950"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" width="120" height="40"></a>
+<a href = "mailto:viniciusreis950@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" width="120" height="40"></a>
 </div>
           
           
