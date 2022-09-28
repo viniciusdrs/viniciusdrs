@@ -1,5 +1,10 @@
 # Olá, me chamo Vinicius! 
-## Bem vindo ao meu perfil GitHub 👋
+
+- 🎓 Formado em Ciência da Computação pela Universidade Nove de Julho
+- 🧠 Atualmente estou aprendendo: ABAP, Java e WEB
+- 🏹 Tenho como Objetivo ser um Desenvolvedor de Sistemas
+- 🌍 Moro em São Paulo - Capital
+- 🎯 Tenho conhecimentos em Desenvolvimeto Back-End e Front-End
 
 ## Ferramentas e Tecnologias
 <div>     
