@@ -30,7 +30,7 @@
 ## Contatos:
 <div>
 <a href="https://www.linkedin.com/in/vinicius-reis-6ab50415a" target="_blank"><img src="https://img.icons8.com/nolan/64/linkedin-circled.png" width="50" height="50" /></a>    
-<a href = "mailto:viniciusreis950@gmail.com"><img src="https://img.icons8.com/nolan/64/microsoft-outlook-2019.png" width="50" height="50" /></a>
+<a href = "mailto:vinireissoares@hotmail.com"><img src="https://img.icons8.com/nolan/64/microsoft-outlook-2019.png" width="50" height="50" /></a>
 <a href = "mailto:viniciusreis950@gmail.com"><img src="https://img.icons8.com/nolan/64/gmail.png" width="50" height="50" /></a>
           
 </div>
