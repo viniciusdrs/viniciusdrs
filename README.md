@@ -3,6 +3,7 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 - 🎓 Formado em Ciência da Computação pela Universidade Nove de Julho
+- ⚙ Cursando Ciência de Dados pelo Universidade Cruzeiro do Sul
 - 🧠 Atualmente estou aprendendo: ABAP, Java e WEB
 - 🏹 Tenho como Objetivo ser um Desenvolvedor de Sistemas
 - 🌍 Moro em São Paulo - Capital
